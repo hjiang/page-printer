@@ -1,9 +1,6 @@
 #ifndef MEIWEI_PAGE_PRINTER_H__
 #define MEIWEI_PAGE_PRINTER_H__
 
-#include <QDebug>
-#include <QWidget>
-#include <QWebFrame>
 #include <QWebView>
 
 class PagePrinter : public QObject {

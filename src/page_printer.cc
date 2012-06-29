@@ -2,6 +2,7 @@
 #include "page_printer.moc"
 
 #include <iostream>
+#include <QWebFrame>
 
 PagePrinter::PagePrinter(QWebView* view)
   : QObject(), view_(view) {

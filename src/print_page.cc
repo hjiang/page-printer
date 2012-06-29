@@ -1,5 +1,6 @@
 #include <iostream>
 #include <QApplication>
+#include <QDebug>
 #include <QObject>
 #include <QUrl>
 #include <QWebSettings>
